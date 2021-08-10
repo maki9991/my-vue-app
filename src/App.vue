@@ -39,7 +39,7 @@ export default {
 
 <style scoped>
 .hello-world {
-  margin-top: 100px;
+  margin-top: 10px;
   text-align: center;
 }
 </style>
