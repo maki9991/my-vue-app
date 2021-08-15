@@ -2,6 +2,7 @@
 
 Hi! I'm Makky.
 
+watashi push shitaino.
 
 ## Project setup
 ```
