@@ -1,5 +1,8 @@
 # my-vue-app
 
+Hi! I'm Makky.
+
+
 ## Project setup
 ```
 npm install
